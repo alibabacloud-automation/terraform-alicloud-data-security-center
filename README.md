@@ -1,3 +1,9 @@
+# Deprecated
+
+Thank you for your interest in Alibaba Cloud Terraform Module. This Module will be out of maintenance as of today and will be officially taken offline in the future. More available Modules can be searched in [Alibaba Cloud Terraform Module](https://registry.terraform.io/browse/modules?provider=alibaba).
+
+Thank you again for your understanding and cooperation.
+
 Terraform module which creates SDDP instance resource on Alibaba Cloud.
 
 terraform-alicloud-data-security-center
